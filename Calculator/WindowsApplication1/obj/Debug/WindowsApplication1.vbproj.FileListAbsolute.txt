@@ -1,0 +1,48 @@
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\jony\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ION\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ION\Desktop\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ION\Desktop\Новая папка (2)\Calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ION\Desktop\Новая папка (2)\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ION\Desktop\Новая папка (2)\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ION\Desktop\Новая папка (2)\Calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\UTM\ANUL 1\Calculator creat de către Stratan Ion si Victor Talpa TI-144\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\UTM\ANUL 1\Calculator creat de către Stratan Ion si Victor Talpa TI-144\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\UTM\ANUL 1\Calculator creat de către Stratan Ion si Victor Talpa TI-144\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\UTM\ANUL 1\Calculator creat de către Stratan Ion si Victor Talpa TI-144\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\UTM\ANUL 2\Simestru II\Medii interative de dezvoltare a produselor soft\Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

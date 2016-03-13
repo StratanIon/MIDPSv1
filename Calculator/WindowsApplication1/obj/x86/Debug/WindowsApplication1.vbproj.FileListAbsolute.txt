@@ -1,0 +1,41 @@
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Bharath\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.exe.manifest
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.application
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.exe
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.pdb
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.xml
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.exe.manifest
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.application
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.exe
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.xml
+C:\Users\Bharath\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.pdb
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.exe
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.xml
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.pdb
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.exe.manifest
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.application
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.exe
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.pdb
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\bin\Debug\My calculator.xml
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.exe.manifest
+F:\Misc from desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\My calculator.application
